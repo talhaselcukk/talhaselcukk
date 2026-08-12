@@ -1,7 +1,5 @@
 <div align="center">
 
-<img width="118" src="https://i.hizliresim.com/f9hsjnvc.png" alt="BamBam" />
-
 # Talha S. S. — `BamBam`
 
 ### Full Stack Developer · System Architect
