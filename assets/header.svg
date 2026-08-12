@@ -28,11 +28,10 @@
   <circle cx="1080" cy="245" r="260" fill="url(#glowB)"/>
   <path d="M850 -30L1230 170M900 -40L1230 135M960 -50L1230 100" stroke="#22d3ee" stroke-opacity=".09" stroke-width="2"/>
   <rect x="54" y="46" width="1092" height="208" rx="18" fill="#ffffff" fill-opacity=".025" stroke="#ffffff" stroke-opacity=".1"/>
-  <rect x="88" y="75" width="78" height="27" rx="13.5" fill="#00c896" fill-opacity=".12" stroke="#00c896" stroke-opacity=".35"/>
-  <circle cx="104" cy="88.5" r="4" fill="#00c896"/>
-  <text x="116" y="94" fill="#7ee8c5" font-family="Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1.4">ONLINE</text>
-  <text x="88" y="164" fill="#ffffff" font-family="Arial, sans-serif" font-size="55" font-weight="800" letter-spacing="-1">TALHA S. S.</text>
-  <text x="410" y="164" fill="url(#accent)" font-family="Arial, sans-serif" font-size="55" font-weight="800">/ BAMBAM</text>
+  <rect x="88" y="75" width="100" height="28" rx="14" fill="#00c896" fill-opacity=".12" stroke="#00c896" stroke-opacity=".42"/>
+  <text x="138" y="94" text-anchor="middle" fill="#7ee8c5" font-family="Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1">● ONLINE</text>
+  <text x="88" y="164" fill="#ffffff" font-family="Arial, sans-serif" font-size="55" font-weight="800" letter-spacing="-1">TALHA</text>
+  <text x="280" y="164" fill="url(#accent)" font-family="Arial, sans-serif" font-size="55" font-weight="800">/ BAMBAM</text>
   <rect x="88" y="187" width="640" height="3" rx="1.5" fill="url(#accent)"/>
   <text x="88" y="224" fill="#a8b3bd" font-family="monospace" font-size="17" letter-spacing="1.6">FULL STACK DEVELOPER  •  SYSTEM ARCHITECT</text>
   <text x="1032" y="222" text-anchor="end" fill="#52606d" font-family="monospace" font-size="13">EST. 2022</text>
