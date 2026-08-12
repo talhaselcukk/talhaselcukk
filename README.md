@@ -1,8 +1,8 @@
 <div align="center">
 
-# Talha S. S. <code>// BamBam</code>
+<img src="./assets/header.svg" width="100%" alt="Talha S. S. — Full Stack Developer and System Architect" />
 
-`FULL STACK DEVELOPER` &nbsp;•&nbsp; `SYSTEM ARCHITECT`
+<br>
 
 Modern web uygulamaları, API sistemleri, otomasyon araçları ve oyun toplulukları için ölçeklenebilir ürünler geliştiriyorum.
 
@@ -22,6 +22,12 @@ Modern web uygulamaları, API sistemleri, otomasyon araçları ve oyun toplulukl
 </div>
 
 <div align="center"><img src="./assets/divider.svg" width="92%" alt="" /></div>
+
+<div align="center">
+
+[**PROFİL**](#-profil)　·　[**HİZMETLER**](#-neler-yapıyorum)　·　[**TEKNOLOJİLER**](#-teknoloji-alanım)　·　[**PROJELER**](#-seçili-projeler)　·　[**İLETİŞİM**](#-bağlantı)
+
+</div>
 
 ## ✦ Profil
 
@@ -168,9 +174,15 @@ Mağaza, kredi sistemi, destek talepleri, blog ve çoklu dil desteği bulunan Mi
 
 <div align="center">
 
-### Birlikte bir şey geliştirelim.
+## ✦ Bağlantı
 
-**Discord:** `talhasel__` · **Web:** [talhaselcuksezgin.com](https://talhaselcuksezgin.com)
+### Birlikte üretime hazır bir şey geliştirelim.
+
+[![Portfolio](https://img.shields.io/badge/talhaselcuksezgin.com-00C896?style=for-the-badge&logo=googlechrome&logoColor=white)](https://talhaselcuksezgin.com)
+[![Discord](https://img.shields.io/badge/talhasel__-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/774261004569804830)
+[![Email](https://img.shields.io/badge/talha.selcukk%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:talha.selcukk@gmail.com)
+
+<br><br>
 
 <sub>Clean architecture · Performance · Security · Production</sub>
 
