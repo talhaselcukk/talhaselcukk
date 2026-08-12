@@ -1,0 +1,36 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07111f"/>
+      <stop offset="0.55" stop-color="#0d1b2a"/>
+      <stop offset="1" stop-color="#071a15"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#58a6ff"/>
+      <stop offset="1" stop-color="#39d98a"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#ffffff" stroke-opacity=".035"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="320" rx="26" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="26" fill="url(#grid)"/>
+  <circle cx="1050" cy="60" r="170" fill="#58a6ff" opacity=".06"/>
+  <circle cx="1120" cy="270" r="210" fill="#39d98a" opacity=".05"/>
+  <rect x="58" y="46" width="1084" height="228" rx="18" fill="#050b12" fill-opacity=".68" stroke="#ffffff" stroke-opacity=".1"/>
+  <circle cx="88" cy="75" r="6" fill="#ff5f56"/>
+  <circle cx="108" cy="75" r="6" fill="#ffbd2e"/>
+  <circle cx="128" cy="75" r="6" fill="#27c93f"/>
+  <text x="160" y="81" fill="#6e7681" font-family="monospace" font-size="15">talha@github — profile</text>
+  <text x="88" y="137" fill="#39d98a" font-family="monospace" font-size="19">$ whoami</text>
+  <text x="88" y="198" fill="#ffffff" font-family="Arial, sans-serif" font-size="54" font-weight="700" letter-spacing="3">TALHA</text>
+  <text x="312" y="198" fill="#58a6ff" font-family="Arial, sans-serif" font-size="54" font-weight="700">// BAMBAM</text>
+  <rect x="88" y="221" width="540" height="3" rx="2" fill="url(#line)" filter="url(#glow)"/>
+  <text x="88" y="252" fill="#9da7b3" font-family="monospace" font-size="17">BUILDING • LEARNING • IMPROVING</text>
+  <path d="M1010 135l35 20v40l-35 20-35-20v-40z" fill="none" stroke="url(#line)" stroke-width="4" filter="url(#glow)"/>
+  <path d="M996 173l11 11 22-25" fill="none" stroke="#39d98a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
