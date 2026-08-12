@@ -1,8 +1,8 @@
 <div align="center">
 
-# Talha S. S. — `BamBam`
+# Talha S. S. <code>// BamBam</code>
 
-### Full Stack Developer · System Architect
+`FULL STACK DEVELOPER` &nbsp;•&nbsp; `SYSTEM ARCHITECT`
 
 Modern web uygulamaları, API sistemleri, otomasyon araçları ve oyun toplulukları için ölçeklenebilir ürünler geliştiriyorum.
 
@@ -15,13 +15,13 @@ Modern web uygulamaları, API sistemleri, otomasyon araçları ve oyun toplulukl
 
 <br>
 
-![Deneyim](https://img.shields.io/badge/4%2B_YIL-DENEYİM-101820?style=flat-square&labelColor=00C896)
-![Projeler](https://img.shields.io/badge/10%2B-PROJE-101820?style=flat-square&labelColor=22D3EE)
-![Teknolojiler](https://img.shields.io/badge/34-TEKNOLOJİ-101820?style=flat-square&labelColor=8B5CF6)
+![Deneyim](https://img.shields.io/badge/4%2B_YIL-DENEYİM-101820?style=for-the-badge&labelColor=00C896)
+![Projeler](https://img.shields.io/badge/10%2B-PROJE-101820?style=for-the-badge&labelColor=22D3EE)
+![Teknolojiler](https://img.shields.io/badge/34-TEKNOLOJİ-101820?style=for-the-badge&labelColor=8B5CF6)
 
 </div>
 
----
+<div align="center"><img src="./assets/divider.svg" width="92%" alt="" /></div>
 
 ## ✦ Profil
 
@@ -29,7 +29,7 @@ Modern web uygulamaları, API sistemleri, otomasyon araçları ve oyun toplulukl
 
 Çalışmalarımda **temiz mimari**, **performans**, **güvenlik** ve **sorunsuz dağıtım** konularına odaklanıyorum. Bir projeyi fikir aşamasından üretim ortamına kadar bütün olarak ele almayı seviyorum.
 
-> Şu anki ana odağım: **Nexuby** ve **NEX.WEB.TR** çatısı altında geliştirici araçları ve dijital ürünler geliştirmek.
+> 🟢 **Şu anda:** Nexuby ve NEX.WEB.TR çatısı altında geliştirici araçları ve dijital ürünler geliştiriyorum.
 
 ## ✦ Neler Yapıyorum?
 
@@ -44,9 +44,13 @@ Modern web uygulamaları, API sistemleri, otomasyon araçları ve oyun toplulukl
 
 <div align="center">
 
+#### Web & Uygulama
+
 <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nextjs,react,html,css,tailwind,bootstrap,php,java,python&perline=6" alt="Development technologies" />
 
 <br><br>
+
+#### Veri & Altyapı
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,git,github,cloudflare,npm,vite&perline=8" alt="Databases and tools" />
 
@@ -56,6 +60,8 @@ Modern web uygulamaları, API sistemleri, otomasyon araçları ve oyun toplulukl
 
 </div>
 
+<div align="center"><img src="./assets/divider.svg" width="78%" alt="" /></div>
+
 ## ✦ Seçili Projeler
 
 <table>
@@ -63,6 +69,8 @@ Modern web uygulamaları, API sistemleri, otomasyon araçları ve oyun toplulukl
 <td width="50%" valign="top">
 
 ### 🟢 Nexuby
+
+![Featured](https://img.shields.io/badge/FEATURED-00C896?style=flat-square)
 
 Minecraft eklentileri, web platformları, otomasyon sistemleri ve açık kaynak geliştirici araçları üreten yazılım markası.
 
@@ -74,6 +82,8 @@ Minecraft eklentileri, web platformları, otomasyon sistemleri ve açık kaynak 
 <td width="50%" valign="top">
 
 ### 🟦 NEX.WEB.TR
+
+![Featured](https://img.shields.io/badge/FEATURED-22D3EE?style=flat-square)
 
 İşletmeler, içerik üreticileri ve çevrim içi projeler için profesyonel web scriptleri ve dijital çözümler.
 
@@ -135,8 +145,12 @@ Mağaza, kredi sistemi, destek talepleri, blog ve çoklu dil desteği bulunan Mi
 
 ## ✦ Sertifikalar
 
-- **Web Sitesi Kullanılabilirliği** — [BTK Akademi, 2025](https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=qKrheY9KGK)
-- **Sosyal Medyada Tasarım Temelli İçerik Üretimi** — [BTK Akademi, 2026](https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=O2kkfw1o7mZ)
+| Kurum | Sertifika | Yıl |
+|:---:|---|:---:|
+| **BTK Akademi** | [Web Sitesi Kullanılabilirliği](https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=qKrheY9KGK) | `2025` |
+| **BTK Akademi** | [Sosyal Medyada Tasarım Temelli İçerik Üretimi](https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=O2kkfw1o7mZ) | `2026` |
+
+<div align="center"><img src="./assets/divider.svg" width="78%" alt="" /></div>
 
 ## ✦ GitHub Aktivitesi
 
