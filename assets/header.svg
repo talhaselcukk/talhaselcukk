@@ -1,36 +1,39 @@
-<svg width="1200" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg">
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#07111f"/>
-      <stop offset="0.55" stop-color="#0d1b2a"/>
-      <stop offset="1" stop-color="#071a15"/>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#07120f"/>
+      <stop offset="0.52" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#07131a"/>
     </linearGradient>
-    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
-      <stop stop-color="#58a6ff"/>
-      <stop offset="1" stop-color="#39d98a"/>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#00c896"/>
+      <stop offset="0.52" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#8b5cf6"/>
     </linearGradient>
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="5" result="blur"/>
-      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
-      <path d="M36 0H0V36" fill="none" stroke="#ffffff" stroke-opacity=".035"/>
+    <radialGradient id="glowA">
+      <stop stop-color="#00c896" stop-opacity=".2"/>
+      <stop offset="1" stop-color="#00c896" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB">
+      <stop stop-color="#22d3ee" stop-opacity=".16"/>
+      <stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#ffffff" opacity=".08"/>
     </pattern>
   </defs>
-  <rect width="1200" height="320" rx="26" fill="url(#bg)"/>
-  <rect width="1200" height="320" rx="26" fill="url(#grid)"/>
-  <circle cx="1050" cy="60" r="170" fill="#58a6ff" opacity=".06"/>
-  <circle cx="1120" cy="270" r="210" fill="#39d98a" opacity=".05"/>
-  <rect x="58" y="46" width="1084" height="228" rx="18" fill="#050b12" fill-opacity=".68" stroke="#ffffff" stroke-opacity=".1"/>
-  <circle cx="88" cy="75" r="6" fill="#ff5f56"/>
-  <circle cx="108" cy="75" r="6" fill="#ffbd2e"/>
-  <circle cx="128" cy="75" r="6" fill="#27c93f"/>
-  <text x="160" y="81" fill="#6e7681" font-family="monospace" font-size="15">talha@github — profile</text>
-  <text x="88" y="137" fill="#39d98a" font-family="monospace" font-size="19">$ whoami</text>
-  <text x="88" y="198" fill="#ffffff" font-family="Arial, sans-serif" font-size="54" font-weight="700" letter-spacing="3">TALHA</text>
-  <text x="312" y="198" fill="#58a6ff" font-family="Arial, sans-serif" font-size="54" font-weight="700">// BAMBAM</text>
-  <rect x="88" y="221" width="540" height="3" rx="2" fill="url(#line)" filter="url(#glow)"/>
-  <text x="88" y="252" fill="#9da7b3" font-family="monospace" font-size="17">BUILDING • LEARNING • IMPROVING</text>
-  <path d="M1010 135l35 20v40l-35 20-35-20v-40z" fill="none" stroke="url(#line)" stroke-width="4" filter="url(#glow)"/>
-  <path d="M996 173l11 11 22-25" fill="none" stroke="#39d98a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect width="1200" height="300" rx="24" fill="url(#background)"/>
+  <rect width="1200" height="300" rx="24" fill="url(#dots)"/>
+  <circle cx="135" cy="70" r="230" fill="url(#glowA)"/>
+  <circle cx="1080" cy="245" r="260" fill="url(#glowB)"/>
+  <path d="M850 -30L1230 170M900 -40L1230 135M960 -50L1230 100" stroke="#22d3ee" stroke-opacity=".09" stroke-width="2"/>
+  <rect x="54" y="46" width="1092" height="208" rx="18" fill="#ffffff" fill-opacity=".025" stroke="#ffffff" stroke-opacity=".1"/>
+  <rect x="88" y="75" width="78" height="27" rx="13.5" fill="#00c896" fill-opacity=".12" stroke="#00c896" stroke-opacity=".35"/>
+  <circle cx="104" cy="88.5" r="4" fill="#00c896"/>
+  <text x="116" y="94" fill="#7ee8c5" font-family="Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1.4">ONLINE</text>
+  <text x="88" y="164" fill="#ffffff" font-family="Arial, sans-serif" font-size="55" font-weight="800" letter-spacing="-1">TALHA S. S.</text>
+  <text x="410" y="164" fill="url(#accent)" font-family="Arial, sans-serif" font-size="55" font-weight="800">/ BAMBAM</text>
+  <rect x="88" y="187" width="640" height="3" rx="1.5" fill="url(#accent)"/>
+  <text x="88" y="224" fill="#a8b3bd" font-family="monospace" font-size="17" letter-spacing="1.6">FULL STACK DEVELOPER  •  SYSTEM ARCHITECT</text>
+  <text x="1032" y="222" text-anchor="end" fill="#52606d" font-family="monospace" font-size="13">EST. 2022</text>
 </svg>
