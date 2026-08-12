@@ -1,10 +1,10 @@
 <div align="center">
 
-<code>talhaselcukk@github:~$ ./start.sh</code>
+<img src="./assets/header.svg" width="100%" alt="Talha // BamBam" />
 
-# TALHA // BAMBAM
+<br>
 
-**Merak et → Deneyimle → Üret → Geliştir**
+**`Merak et` → `Deneyimle` → `Üret` → `Geliştir`**
 
 <p>
   <img src="https://img.shields.io/badge/STATUS-LEARNING-2ea043?style=flat-square" alt="Learning" />
@@ -16,7 +16,7 @@
 
 ---
 
-### `01. PROFİL`
+## <code>01</code> &nbsp; PROFİL
 
 ```text
 Merhaba! Ben Talha.
@@ -28,7 +28,7 @@ Bu profil tamamlanmış bir vitrin değil;
 gelişim sürecimin canlı kaydı.
 ```
 
-### `02. ŞU ANKİ ROTA`
+## <code>02</code> &nbsp; ŞU ANKİ ROTA
 
 ```mermaid
 flowchart LR
@@ -39,14 +39,16 @@ flowchart LR
     E -. yeniden .-> A
 ```
 
-### `03. BUILD LOG`
+## <code>03</code> &nbsp; BUILD LOG
 
-- `[ACTIVE]` Yeni teknolojiler öğreniyorum.
-- `[ACTIVE]` İlk açık kaynak projelerimi hazırlıyorum.
-- `[NEXT]` Projelerimi düzenli olarak GitHub'da paylaşacağım.
-- `[GOAL]` Her projede bir öncekinden daha iyi kod yazmak.
+| Durum | Görev |
+|:---:|---|
+| 🟢 **ACTIVE** | Yeni teknolojiler öğreniyorum |
+| 🟢 **ACTIVE** | İlk açık kaynak projelerimi hazırlıyorum |
+| 🔵 **NEXT** | Projelerimi düzenli olarak GitHub'da paylaşacağım |
+| 🟣 **GOAL** | Her projede bir öncekinden daha iyi kod yazmak |
 
-### `04. GITHUB SİNYALİ`
+## <code>04</code> &nbsp; GITHUB SİNYALİ
 
 <div align="center">
 
@@ -58,7 +60,7 @@ flowchart LR
 
 </div>
 
-### `05. BAĞLANTI`
+## <code>05</code> &nbsp; BAĞLANTI
 
 Benimle iletişim kurmanın en kolay yolu GitHub üzerinden ulaşmak:
 
