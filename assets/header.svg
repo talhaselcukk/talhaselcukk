@@ -31,7 +31,7 @@
   <rect x="88" y="75" width="100" height="28" rx="14" fill="#00c896" fill-opacity=".12" stroke="#00c896" stroke-opacity=".42"/>
   <text x="138" y="94" text-anchor="middle" fill="#7ee8c5" font-family="Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1">● ONLINE</text>
   <text x="88" y="164" fill="#ffffff" font-family="Arial, sans-serif" font-size="55" font-weight="800" letter-spacing="-1">TALHA</text>
-  <text x="280" y="164" fill="url(#accent)" font-family="Arial, sans-serif" font-size="55" font-weight="800">/ BAMBAM</text>
+  <text x="305" y="164" fill="url(#accent)" font-family="Arial, sans-serif" font-size="55" font-weight="800">/ BAMBAM</text>
   <rect x="88" y="187" width="640" height="3" rx="1.5" fill="url(#accent)"/>
   <text x="88" y="224" fill="#a8b3bd" font-family="monospace" font-size="17" letter-spacing="1.6">FULL STACK DEVELOPER  •  SYSTEM ARCHITECT</text>
   <text x="1032" y="222" text-anchor="end" fill="#52606d" font-family="monospace" font-size="13">EST. 2022</text>
