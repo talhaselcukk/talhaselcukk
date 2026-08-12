@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Talha S. S. — Full Stack Developer and System Architect" />
+<img src="./assets/header.svg" width="100%" alt="Talha — Full Stack Developer and System Architect" />
 
 <br>
 
