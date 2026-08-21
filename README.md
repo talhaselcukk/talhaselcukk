@@ -162,7 +162,7 @@ Mağaza, kredi sistemi, destek talepleri, blog ve çoklu dil desteği bulunan Mi
 
 <div align="center">
 
-<img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=talhaselcukk&theme=github_dark" alt="GitHub activity" />
+<img width="96%" src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Talha Selçuk Sezgin GitHub aktivitesi" />
 
 <br>
 
