@@ -9,6 +9,7 @@ Modern web uygulamaları, API sistemleri, otomasyon araçları ve oyun toplulukl
 <br>
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLYO-00C896?style=for-the-badge&logo=googlechrome&logoColor=white)](https://talhaselcuksezgin.com)
+[![DevTools](https://img.shields.io/badge/DEVTOOLS-10B981?style=for-the-badge&logo=terminal&logoColor=white)](https://devtools.com.tr)
 [![Discord](https://img.shields.io/badge/bambams__-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/277501063538409472)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/talha-sel%C3%A7uk-sezgin-95b429332)
 [![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:talha.selcukk@gmail.com)
@@ -170,6 +171,30 @@ Mağaza, kredi sistemi, destek talepleri, blog ve çoklu dil desteği bulunan Mi
 `LeaderOS` `PHP` `MySQL` `JavaScript`
 
 **[anormalcraft.com →](https://anormalcraft.com)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛠️ DevTools
+
+34 gelistirici araci, dark/light tema, PWA destegi, Ctrl+K arama, favori ve son kullanilan ozellikleri.
+
+`Next.js` `TypeScript` `Tailwind CSS` `PWA`
+
+**[devtools.com.tr →](https://devtools.com.tr)**
+
+</td>
+<td width="50%" valign="top">
+
+### 🔍 MekipCraft
+
+Gercek zamanli web sitesi analiz platformu. Guvenlik, SEO, SSL, DNS ve performans kontrolu.
+
+`Next.js` `TypeScript` `Tailwind CSS` `REST API`
+
+**[mekipcraft.com →](https://mekipcraft.com)**
 
 </td>
 </tr>
