@@ -74,6 +74,19 @@ Modern web uygulamaları, API sistemleri, otomasyon araçları ve oyun toplulukl
 <tr>
 <td width="50%" valign="top">
 
+### 🏛️ 19-05-1881
+
+![Featured](https://img.shields.io/badge/FEATURED-FF6B35?style=flat-square)
+
+Mustafa Kemal Atatürk'ün life journey interactive web experience with historical content, timeline, archival materials and educational resources.
+
+`Next.js` `TypeScript` `Tailwind CSS` `Vercel`
+
+**[19-05-1881.com.tr →](https://19-05-1881.com.tr)**
+
+</td>
+<td width="50%" valign="top">
+
 ### 🟢 Nexuby
 
 ![Featured](https://img.shields.io/badge/FEATURED-00C896?style=flat-square)
@@ -85,6 +98,8 @@ Minecraft eklentileri, web platformları, otomasyon sistemleri ve açık kaynak 
 **[nexuby.net.tr →](https://nexuby.net.tr)**
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🟦 NEX.WEB.TR
@@ -98,8 +113,6 @@ Minecraft eklentileri, web platformları, otomasyon sistemleri ve açık kaynak 
 **[nex.web.tr →](https://nex.web.tr)**
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### ✂️ Utku Köksal Hair Studio
@@ -109,6 +122,19 @@ Hizmet menüsü, fiyatlandırma ve gerçek zamanlı randevu formu içeren güzel
 `React` `Next.js` `TypeScript` `Tailwind CSS`
 
 **[Projeyi aç →](https://utkukoksalhairstudio.com)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧶 Derya Craft House
+
+Doğal dokularla, sevgiyle hazırlanan el yapımı hasır, makrome ve örgü çantalar için vitrin web sitesi. GlowCard spotlight efekti, responsive tasarım ve Instagram sipariş entegrasyonu.
+
+`Next.js` `TypeScript` `CSS3` `Nginx`
+
+**[deryacrafthouse.com.tr →](https://deryacrafthouse.com.tr)**
 
 </td>
 <td width="50%" valign="top">
@@ -179,7 +205,7 @@ Mağaza, kredi sistemi, destek talepleri, blog ve çoklu dil desteği bulunan Mi
 ### Birlikte üretime hazır bir şey geliştirelim.
 
 [![Portfolio](https://img.shields.io/badge/talhaselcuksezgin.com-00C896?style=for-the-badge&logo=googlechrome&logoColor=white)](https://talhaselcuksezgin.com)
-[![Discord](https://img.shields.io/badge/bambams__-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/277501063538409472)
+[![Discord](https://img.shields.io/badge/talhaselcukk-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/277501063538409472)
 [![Email](https://img.shields.io/badge/talha.selcukk%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:talha.selcukk@gmail.com)
 
 <br><br>
