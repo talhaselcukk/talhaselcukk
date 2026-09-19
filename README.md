@@ -9,7 +9,7 @@ Modern web uygulamaları, API sistemleri, otomasyon araçları ve oyun toplulukl
 <br>
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLYO-00C896?style=for-the-badge&logo=googlechrome&logoColor=white)](https://talhaselcuksezgin.com)
-[![Discord](https://img.shields.io/badge/talhasel__-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/774261004569804830)
+[![Discord](https://img.shields.io/badge/talhasel__-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/277501063538409472)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/talha-sel%C3%A7uk-sezgin-95b429332)
 [![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:talha.selcukk@gmail.com)
 
