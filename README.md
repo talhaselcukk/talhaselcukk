@@ -179,7 +179,7 @@ Mağaza, kredi sistemi, destek talepleri, blog ve çoklu dil desteği bulunan Mi
 ### Birlikte üretime hazır bir şey geliştirelim.
 
 [![Portfolio](https://img.shields.io/badge/talhaselcuksezgin.com-00C896?style=for-the-badge&logo=googlechrome&logoColor=white)](https://talhaselcuksezgin.com)
-[![Discord](https://img.shields.io/badge/talhasel__-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/774261004569804830)
+[![Discord](https://img.shields.io/badge/bambams__-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/277501063538409472)
 [![Email](https://img.shields.io/badge/talha.selcukk%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:talha.selcukk@gmail.com)
 
 <br><br>
