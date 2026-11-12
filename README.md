@@ -11,7 +11,7 @@ from the server to the interface, from the API to the deployment.
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://talhaselcuksezgin.com)
 [![DevTools](https://img.shields.io/badge/DEVTOOLS-0EA5E9?style=for-the-badge&logo=terminal&logoColor=white)](https://devtools.com.tr)
-[![Discord](https://img.shields.io/badge/bambams__-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/277501063538409472)
+[![Discord](https://img.shields.io/badge/bambams__-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1551640208041181230)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/talha-sel%C3%A7uk-sezgin-95b429332)
 [![Email](https://img.shields.io/badge/EMAIL-7C3AED?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:info@talhaselcuksezgin.com)
 
@@ -198,7 +198,7 @@ My projects are proudly hosted on **[Verinox](https://www.verinox.com.tr)** — 
 ### Let's build something production-ready together.
 
 [![Portfolio](https://img.shields.io/badge/talhaselcuksezgin.com-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://talhaselcuksezgin.com)
-[![Discord](https://img.shields.io/badge/bambams__-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/277501063538409472)
+[![Discord](https://img.shields.io/badge/bambams__-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1551640208041181230)
 [![Email](https://img.shields.io/badge/info%40talhaselcuksezgin.com-7C3AED?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:info@talhaselcuksezgin.com)
 
 <br><br>
