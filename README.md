@@ -27,7 +27,7 @@ sunucudan arayüze, API'den dağıtıma kadar.
 
 <div align="center">
 
-[**PROFİL**](#-profil)　·　[**AKTİF ÜRÜNLER**](#-aktif-olarak-geliştirdiklerim)　·　[**TEKNOLOJİLER**](#-teknoloji-alanım)　·　[**DİĞER İŞLER**](#-diğer-çalışmalar)　·　[**İLETİŞİM**](#-bağlantı)
+[**PROFİL**](#-profil)　·　[**AKTİF ÜRÜNLER**](#-aktif-olarak-geliştirdiklerim)　·　[**HİZMETLER**](#-neler-yapıyorum)　·　[**TEKNOLOJİLER**](#-teknoloji-alanım)　·　[**DİĞER İŞLER**](#-diğer-çalışmalar)　·　[**İLETİŞİM**](#-bağlantı)
 
 </div>
 
@@ -38,6 +38,15 @@ sunucudan arayüze, API'den dağıtıma kadar.
 Çalışmalarımda **temiz mimari**, **performans**, **güvenlik** ve **kesintisiz dağıtım** konularına odaklanıyorum. Bir ürünü fikir aşamasından üretim ortamına — sunucu kurulumundan arayüz detaylarına kadar — bütün olarak ele alıyorum.
 
 > 🟢 **Şu anda:** Verinox, İletora, Serpium ve Vardwall'u aktif olarak geliştiriyorum.
+
+## ✦ Neler Yapıyorum?
+
+| `01` Web & Ürün | `02` Sistem & Otomasyon | `03` Oyun & Topluluk |
+|---|---|---|
+| Full Stack Development | API Development | Minecraft Development |
+| E-Commerce Solutions | System Architecture | Discord Bot Development |
+| UI/UX & Responsive Design | Automation & Scripting | Community Systems |
+| Performance & SEO | Database Management | Custom Integrations |
 
 ## ✦ Aktif Olarak Geliştirdiklerim
 
@@ -106,17 +115,17 @@ Yetkili DNS ve WAF korumasını tek panelde toplayan güvenlik platformu. Ters v
 
 #### Web & Uygulama
 
-<img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,tailwind,nodejs,go,php,java,python&perline=10" alt="Development technologies" />
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,nextjs,react,html,css,tailwind,bootstrap,php,java,python,go&perline=7" alt="Development technologies" />
 
 <br><br>
 
 #### Veri & Altyapı
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,docker,nginx,linux,debian,ubuntu,git,cloudflare,vite&perline=12" alt="Databases and infrastructure" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,postgres,redis,git,github,cloudflare,npm,vite,docker,nginx,linux&perline=7" alt="Databases and tools" />
 
 <br><br>
 
-`REST API` · `Postfix` · `Dovecot` · `WAF` · `DNS` · `Discord.js` · `Paper` · `Velocity`
+`Discord.js` · `REST API` · `JDA` · `Bukkit` · `Spigot` · `Paper` · `Velocity` · `Mineflayer` · `Postfix` · `Dovecot`
 
 </div>
 
@@ -126,37 +135,44 @@ Yetkili DNS ve WAF korumasını tek panelde toplayan güvenlik platformu. Ters v
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-#### 🛠️ DevTools
+### 🏛️ 19-05-1881
 
-Dark/light tema, PWA desteği ve Ctrl+K aramalı geliştirici araçları koleksiyonu.
+![Featured](https://img.shields.io/badge/FEATURED-FF6B35?style=flat-square)
 
-`Next.js` `PWA`
+Mustafa Kemal Atatürk'ün hayat yolculuğunu tarihî içerik, zaman çizelgesi, arşiv materyalleri ve eğitim kaynaklarıyla anlatan etkileşimli web deneyimi.
 
-**[devtools.com.tr →](https://devtools.com.tr)**
-
-</td>
-<td width="33%" valign="top">
-
-#### 🏛️ 19-05-1881
-
-Mustafa Kemal Atatürk'ün hayatını zaman çizelgesi ve arşiv belgeleriyle anlatan etkileşimli web deneyimi.
-
-`Next.js` `Tailwind`
+`Next.js` `TypeScript` `Tailwind CSS` `Vercel`
 
 **[19-05-1881.com.tr →](https://19-05-1881.com.tr)**
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-#### 🧶 Derya Craft House
+### 🛠️ DevTools
 
-El yapımı hasır, makrome ve örgü çantalar için Instagram entegrasyonlu vitrin sitesi.
+34 geliştirici aracı, dark/light tema, PWA desteği, Ctrl+K arama, favori ve son kullanılan özellikleri.
 
-`Next.js` `Nginx`
+`Next.js` `TypeScript` `Tailwind CSS` `PWA`
+
+**[devtools.com.tr →](https://devtools.com.tr)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧶 Derya Craft House
+
+Doğal dokularla, sevgiyle hazırlanan el yapımı hasır, makrome ve örgü çantalar için vitrin web sitesi. GlowCard spotlight efekti, responsive tasarım ve Instagram sipariş entegrasyonu.
+
+`Next.js` `TypeScript` `CSS3` `Nginx`
 
 **[deryacrafthouse.com.tr →](https://deryacrafthouse.com.tr)**
+
+</td>
+<td width="50%" valign="top">
 
 </td>
 </tr>
