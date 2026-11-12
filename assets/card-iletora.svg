@@ -1,0 +1,44 @@
+<svg width="560" height="250" viewBox="0 0 560 250" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="İletora — Business email on your own domain: webmail, Outlook &amp; mobile, DKIM, spam and virus protection, customer and admin panels.">
+  <style>
+    .pulse { animation: pulse 2s ease-in-out infinite; }
+    .shine { animation: shine 6s ease-in-out infinite; }
+    .border { stroke-dasharray: 120 1500; animation: dash 7s linear infinite; }
+    
+    @keyframes pulse { 0%,100% { opacity: 1 } 50% { opacity: .3 } }
+    @keyframes shine { 0% { transform: translateX(-250px) } 60%,100% { transform: translateX(810px) } }
+    @keyframes dash { to { stroke-dashoffset: -1620 } }
+    @keyframes in { from { opacity: 0; transform: translateY(8px) } to { opacity: 1; transform: none } }
+  </style>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#38bdf8"/><stop offset="1" stop-color="#2563eb"/></linearGradient>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#060d1f"/><stop offset="1" stop-color="#030712"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#2563eb" stop-opacity=".35"/><stop offset="1" stop-color="#2563eb" stop-opacity="0"/></radialGradient>
+    <linearGradient id="sh" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".06"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+    <clipPath id="clip"><rect width="560" height="250" rx="20"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="560" height="250" fill="url(#bg)"/>
+    <circle cx="520" cy="20" r="170" fill="url(#glow)"/>
+    <rect class="shine" x="0" y="0" width="200" height="250" fill="url(#sh)" transform="skewX(-20)"/>
+  </g>
+  <rect x="1" y="1" width="558" height="248" rx="19" fill="none" stroke="#1e293b" stroke-width="1.5"/>
+  <rect class="border" x="1" y="1" width="558" height="248" rx="19" fill="none" stroke="url(#g)" stroke-width="2"/>
+  <g class="in">
+    <rect x="32" y="30" width="52" height="52" rx="14" fill="url(#g)"/>
+    <g transform="translate(58 56)"><rect x="-16" y="-12" width="32" height="24" rx="5" fill="none" stroke="#fff" stroke-width="2.5"/><path d="M-14 -8 L0 3 L14 -8" fill="none" stroke="#fff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/></g>
+    <text x="100" y="58" fill="#f8fafc" font-family="'Segoe UI', Arial, sans-serif" font-size="27" font-weight="800">İletora</text>
+    <text x="101" y="78" fill="#64748b" font-family="Consolas, monospace" font-size="12.5" letter-spacing="1">iletora.com ↗</text>
+    <g transform="translate(463.6 34)">
+      <rect width="64.4" height="24" rx="12" fill="#22c55e" fill-opacity=".12" stroke="#22c55e" stroke-opacity=".5"/>
+      <circle class="pulse" cx="14" cy="12" r="4" fill="#22c55e"/>
+      <text x="24" y="16.5" fill="#22c55e" font-family="Consolas, monospace" font-size="11.5" font-weight="700" letter-spacing="1">LIVE</text>
+    </g>
+    <g transform="translate(399.6 64)">
+      <text x="128.39999999999998" y="12" text-anchor="end" fill="#38bdf8" font-family="Consolas, monospace" font-size="11.5" font-weight="700" letter-spacing="1.5">BUSINESS EMAIL</text>
+    </g>
+    <text x="32" y="118" fill="#94a3b8" font-family="'Segoe UI', Arial, sans-serif" font-size="15">Business email on your own domain: webmail,</text>
+    <text x="32" y="138" fill="#94a3b8" font-family="'Segoe UI', Arial, sans-serif" font-size="15">Outlook &amp; mobile, DKIM, spam and virus</text>
+    <text x="32" y="158" fill="#94a3b8" font-family="'Segoe UI', Arial, sans-serif" font-size="15">protection, customer and admin panels.</text>
+    <g transform="translate(32 178)"><rect width="36.8" height="26" rx="13" fill="#0b1630" stroke="#38bdf8" stroke-opacity=".35"/><text x="18.4" y="17.5" text-anchor="middle" fill="#cbd5e1" font-family="Consolas, monospace" font-size="12.5">Go</text></g><g transform="translate(76.8 178)"><rect width="73.80000000000001" height="26" rx="13" fill="#0b1630" stroke="#38bdf8" stroke-opacity=".35"/><text x="36.900000000000006" y="17.5" text-anchor="middle" fill="#cbd5e1" font-family="Consolas, monospace" font-size="12.5">Next.js</text></g><g transform="translate(158.60000000000002 178)"><rect width="96" height="26" rx="13" fill="#0b1630" stroke="#38bdf8" stroke-opacity=".35"/><text x="48" y="17.5" text-anchor="middle" fill="#cbd5e1" font-family="Consolas, monospace" font-size="12.5">PostgreSQL</text></g><g transform="translate(262.6 178)"><rect width="73.80000000000001" height="26" rx="13" fill="#0b1630" stroke="#38bdf8" stroke-opacity=".35"/><text x="36.900000000000006" y="17.5" text-anchor="middle" fill="#cbd5e1" font-family="Consolas, monospace" font-size="12.5">Postfix</text></g><g transform="translate(344.40000000000003 178)"><rect width="73.80000000000001" height="26" rx="13" fill="#0b1630" stroke="#38bdf8" stroke-opacity=".35"/><text x="36.900000000000006" y="17.5" text-anchor="middle" fill="#cbd5e1" font-family="Consolas, monospace" font-size="12.5">Dovecot</text></g>
+  </g>
+</svg>

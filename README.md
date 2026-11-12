@@ -1,25 +1,25 @@
 <div align="center">
 
-<img src="./assets/header.svg?v=2" width="100%" alt="Talha — Full Stack Developer and System Architect" />
+<img src="./assets/hero.svg" width="100%" alt="Talha Selçuk Sezgin — Full Stack Developer and System Architect" />
 
-<br>
+<br><br>
 
 I build **end-to-end infrastructure products** for email, security and SEO —<br>
 from the server to the interface, from the API to the deployment.
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-00C896?style=for-the-badge&logo=googlechrome&logoColor=white)](https://talhaselcuksezgin.com)
-[![DevTools](https://img.shields.io/badge/DEVTOOLS-10B981?style=for-the-badge&logo=terminal&logoColor=white)](https://devtools.com.tr)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://talhaselcuksezgin.com)
+[![DevTools](https://img.shields.io/badge/DEVTOOLS-0EA5E9?style=for-the-badge&logo=terminal&logoColor=white)](https://devtools.com.tr)
 [![Discord](https://img.shields.io/badge/bambams__-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/277501063538409472)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/talha-sel%C3%A7uk-sezgin-95b429332)
-[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@talhaselcuksezgin.com)
+[![Email](https://img.shields.io/badge/EMAIL-7C3AED?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:info@talhaselcuksezgin.com)
 
 <br>
 
-![Experience](https://img.shields.io/badge/4%2B_YEARS-EXPERIENCE-101820?style=for-the-badge&labelColor=00C896)
-![Active](https://img.shields.io/badge/3-ACTIVE_PRODUCTS-101820?style=for-the-badge&labelColor=22D3EE)
-![Technologies](https://img.shields.io/badge/30%2B-TECHNOLOGIES-101820?style=for-the-badge&labelColor=8B5CF6)
+![Experience](https://img.shields.io/badge/4%2B_YEARS-EXPERIENCE-0B1220?style=for-the-badge&labelColor=2563EB)
+![Active](https://img.shields.io/badge/3-ACTIVE_PRODUCTS-0B1220?style=for-the-badge&labelColor=0EA5E9)
+![Technologies](https://img.shields.io/badge/30%2B-TECHNOLOGIES-0B1220?style=for-the-badge&labelColor=7C3AED)
 
 </div>
 
@@ -33,11 +33,36 @@ from the server to the interface, from the API to the deployment.
 
 ## ✦ About Me
 
-I've been building web products, server infrastructure and automation tools since 2022. Today my focus is on **infrastructure products that carry real traffic**: business email, DNS/WAF security and SEO analysis.
+<table>
+<tr>
+<td width="62%" valign="top">
+
+I've been building web products, server infrastructure and automation tools since **2022**. Today my focus is on **infrastructure products that carry real traffic**: business email, DNS/WAF security and SEO analysis.
 
 I care about **clean architecture**, **performance**, **security** and **zero-downtime deployments**. I like owning a product end to end — from provisioning the server to polishing the last pixel of the interface.
 
-> 🟢 **Currently:** actively building İletora, Serpium and Vardwall.
+> 🟢 **Currently:** actively building **İletora**, **Serpium** and **Vardwall**.
+
+</td>
+<td width="38%" valign="top">
+
+```yaml
+name:     Talha Selçuk Sezgin
+role:     Full Stack Developer
+          System Architect
+since:    2022
+focus:
+  - Business email
+  - DNS & WAF security
+  - AI-powered SEO
+stack:    [Go, Next.js, TypeScript,
+           PostgreSQL, Docker, Nginx]
+hosting:  Verinox
+```
+
+</td>
+</tr>
+</table>
 
 ## ✦ What I Do
 
@@ -50,51 +75,13 @@ I care about **clean architecture**, **performance**, **security** and **zero-do
 
 ## ✦ Currently Building
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-### ✉️ İletora
+<a href="https://iletora.com"><img src="./assets/card-iletora.svg" width="49%" alt="İletora — business email" /></a>
+<a href="https://serpium.com.tr"><img src="./assets/card-serpium.svg" width="49%" alt="Serpium — AI-powered SEO" /></a>
+<a href="https://vardwall.com"><img src="./assets/card-vardwall.svg" width="49%" alt="Vardwall — DNS and WAF security" /></a>
 
-![Live](https://img.shields.io/badge/●_LIVE-00C896?style=flat-square) ![Email](https://img.shields.io/badge/BUSINESS_EMAIL-101820?style=flat-square)
-
-Business email on your own domain: webmail, Outlook and mobile support, DKIM, spam and virus protection, with customer and admin panels.
-
-`Go` `Next.js` `PostgreSQL` `Postfix` `Dovecot`
-
-**[iletora.com →](https://iletora.com)**
-
-</td>
-<td width="50%" valign="top">
-
-### 📈 Serpium
-
-![Live](https://img.shields.io/badge/●_LIVE-00C896?style=flat-square) ![SEO](https://img.shields.io/badge/AI_SEO-101820?style=flat-square)
-
-AI-powered SEO and website optimization. Mobile and desktop Lighthouse audits, rank tracking with Search Console data and AI-driven recommendations.
-
-`Next.js` `TypeScript` `Go` `PostgreSQL` `Docker`
-
-**[serpium.com.tr →](https://serpium.com.tr)**
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-### 🛡️ Vardwall
-
-![In development](https://img.shields.io/badge/●_IN_DEVELOPMENT-8B5CF6?style=flat-square) ![Security](https://img.shields.io/badge/DNS_&_WAF-101820?style=flat-square)
-
-A security platform that brings authoritative DNS and WAF protection together in a single panel — reverse proxy edge, OWASP rule sets and automatic IP banning.
-
-`Go` `Next.js` `TypeScript` `PostgreSQL`
-
-**[vardwall.com →](https://vardwall.com)**
-
-</td>
-</tr>
-</table>
+</div>
 
 ## ✦ Tech Stack
 
@@ -175,11 +162,22 @@ A showcase site for handmade straw, macramé and knitted bags, made with natural
 
 <div align="center">
 
-<img width="96%" src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Talha Selçuk Sezgin GitHub activity" />
+<img width="96%" src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="GitHub contribution details" />
 
-<br>
+<img width="48%" src="./profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub stats" />
+<img width="48%" src="./profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive time" />
 
-<img src="https://komarev.com/ghpvc/?username=talhaselcukk&label=PROFILE+VIEWS&color=00c896&style=for-the-badge" alt="Profile views" />
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/talhaselcukk/talhaselcukk/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/talhaselcukk/talhaselcukk/output/snake-light.svg" />
+  <img width="96%" alt="Contribution snake" src="https://raw.githubusercontent.com/talhaselcukk/talhaselcukk/output/snake-dark.svg" />
+</picture>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=talhaselcukk&label=PROFILE+VIEWS&color=2563eb&style=for-the-badge" alt="Profile views" />
 
 </div>
 
@@ -209,12 +207,12 @@ My projects are proudly hosted on **[Verinox](https://www.verinox.com.tr)** — 
 
 ### Let's build something production-ready together.
 
-[![Portfolio](https://img.shields.io/badge/talhaselcuksezgin.com-00C896?style=for-the-badge&logo=googlechrome&logoColor=white)](https://talhaselcuksezgin.com)
+[![Portfolio](https://img.shields.io/badge/talhaselcuksezgin.com-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://talhaselcuksezgin.com)
 [![Discord](https://img.shields.io/badge/bambams__-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/277501063538409472)
-[![Email](https://img.shields.io/badge/info%40talhaselcuksezgin.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@talhaselcuksezgin.com)
+[![Email](https://img.shields.io/badge/info%40talhaselcuksezgin.com-7C3AED?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:info@talhaselcuksezgin.com)
 
 <br><br>
 
-<sub>Clean architecture · Performance · Security · Production</sub>
+<img src="./assets/footer.svg" width="100%" alt="" />
 
 </div>

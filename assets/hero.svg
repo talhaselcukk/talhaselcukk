@@ -1,0 +1,116 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Talha Selçuk Sezgin — Full Stack Developer and System Architect">
+  <style>
+    .float { animation: float 6s ease-in-out infinite; transform-origin: center; transform-box: fill-box; }
+    .float2 { animation: float 8s ease-in-out infinite reverse; transform-origin: center; transform-box: fill-box; }
+    .pulse { animation: pulse 2.2s ease-in-out infinite; }
+    .ring { animation: spin 18s linear infinite; transform-origin: 220px 180px; }
+    .ring2 { animation: spin 26s linear infinite reverse; transform-origin: 220px 180px; }
+    .scan { animation: scan 5s linear infinite; }
+
+
+
+
+    .caret { animation: blink 1s steps(1) infinite; }
+    @keyframes float { 0%,100% { transform: translateY(0) } 50% { transform: translateY(-10px) } }
+    @keyframes pulse { 0%,100% { opacity: 1 } 50% { opacity: .35 } }
+    @keyframes spin { to { transform: rotate(360deg) } }
+    @keyframes scan { 0% { transform: translateX(-300px) } 100% { transform: translateX(1300px) } }
+    @keyframes fadeUp { from { opacity: 0; transform: translateY(12px) } to { opacity: 1; transform: translateY(0) } }
+    @keyframes blink { 50% { opacity: 0 } }
+  </style>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#030712"/>
+      <stop offset=".55" stop-color="#050b1f"/>
+      <stop offset="1" stop-color="#020617"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#38bdf8"/>
+      <stop offset=".5" stop-color="#2563eb"/>
+      <stop offset="1" stop-color="#7c3aed"/>
+    </linearGradient>
+    <linearGradient id="metal" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#ffffff"/>
+      <stop offset=".6" stop-color="#dbe6ff"/>
+      <stop offset="1" stop-color="#9fb4e8"/>
+    </linearGradient>
+    <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#38bdf8"/>
+      <stop offset="1" stop-color="#1d4ed8"/>
+    </linearGradient>
+    <linearGradient id="scanG" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#38bdf8" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#38bdf8" stop-opacity=".14"/>
+      <stop offset="1" stop-color="#38bdf8" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop stop-color="#2563eb" stop-opacity=".55"/>
+      <stop offset="1" stop-color="#2563eb" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2">
+      <stop stop-color="#7c3aed" stop-opacity=".3"/>
+      <stop offset="1" stop-color="#7c3aed" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#60a5fa" stroke-opacity=".07"/>
+    </pattern>
+    <filter id="neon" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="card"><rect width="1200" height="360" rx="28"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <rect width="1200" height="360" fill="url(#bg)"/>
+    <rect width="1200" height="360" fill="url(#grid)"/>
+    <circle cx="220" cy="180" r="260" fill="url(#glow)"/>
+    <circle cx="1100" cy="320" r="300" fill="url(#glow2)"/>
+    <rect class="scan" x="0" y="0" width="300" height="360" fill="url(#scanG)"/>
+
+    <!-- floating particles -->
+    <g fill="#93c5fd">
+      <circle class="float" cx="980" cy="70" r="2.5" opacity=".7"/>
+      <circle class="float2" cx="1060" cy="120" r="1.8" opacity=".5"/>
+      <circle class="float" cx="900" cy="300" r="2" opacity=".5"/>
+      <circle class="float2" cx="640" cy="40" r="1.6" opacity=".6"/>
+      <circle class="float" cx="760" cy="320" r="2.2" opacity=".4"/>
+      <circle class="float2" cx="1140" cy="210" r="2" opacity=".6"/>
+    </g>
+
+    <!-- monogram badge -->
+    <g class="ring">
+      <circle cx="220" cy="180" r="128" fill="none" stroke="url(#accent)" stroke-width="2" stroke-dasharray="6 14" opacity=".55"/>
+    </g>
+    <g class="ring2">
+      <circle cx="220" cy="180" r="146" fill="none" stroke="#38bdf8" stroke-width="1" stroke-dasharray="2 22" opacity=".45"/>
+    </g>
+    <g class="float">
+      <rect x="128" y="88" width="184" height="184" rx="46" fill="#030a1c" stroke="#2563eb" stroke-width="2.5" filter="url(#neon)"/>
+      <rect x="128" y="88" width="184" height="184" rx="46" fill="#030a1c"/>
+      <rect x="128" y="88" width="184" height="184" rx="46" fill="none" stroke="url(#blue)" stroke-width="2"/>
+      <text x="214" y="208" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="96" font-weight="900" font-style="italic" letter-spacing="-8" fill="url(#metal)">TS</text>
+      <path d="M268 126 L292 126 L276 146 L252 146 Z" fill="url(#blue)" filter="url(#neon)"/>
+      <path d="M150 232 L174 232 L158 252 L134 252 Z" fill="url(#blue)" filter="url(#neon)"/>
+    </g>
+
+    <!-- text -->
+    <g class="fade1">
+      <rect x="420" y="74" width="132" height="30" rx="15" fill="#0b1b3d" stroke="#2563eb" stroke-opacity=".6"/>
+      <circle class="pulse" cx="440" cy="89" r="5" fill="#38bdf8"/>
+      <text x="453" y="94" fill="#93c5fd" font-family="Consolas, monospace" font-size="13" font-weight="700" letter-spacing="1.5">ONLINE</text>
+      <text x="570" y="94" fill="#475569" font-family="Consolas, monospace" font-size="13" letter-spacing="1.5">// EST. 2022 · TÜRKİYE</text>
+    </g>
+    <g class="fade2">
+      <text x="418" y="168" fill="#f8fafc" font-family="'Segoe UI', Arial, sans-serif" font-size="58" font-weight="800" letter-spacing="-1.5">Talha Selçuk Sezgin</text>
+    </g>
+    <g class="fade3">
+      <rect x="420" y="190" width="96" height="4" rx="2" fill="url(#accent)"/>
+      <text x="420" y="232" fill="#cbd5e1" font-family="Consolas, monospace" font-size="19" letter-spacing="2">FULL STACK DEVELOPER <tspan fill="#2563eb">◆</tspan> SYSTEM ARCHITECT</text>
+    </g>
+    <g class="fade4">
+      <text x="420" y="282" fill="#64748b" font-family="Consolas, monospace" font-size="15"><tspan fill="#38bdf8">~/talha</tspan> <tspan fill="#7c3aed">❯</tspan> building <tspan fill="#e2e8f0">İletora</tspan>, <tspan fill="#e2e8f0">Serpium</tspan> &amp; <tspan fill="#e2e8f0">Vardwall</tspan><tspan class="caret" fill="#38bdf8"> ▍</tspan></text>
+    </g>
+  </g>
+  <rect x="1" y="1" width="1198" height="358" rx="27" fill="none" stroke="url(#accent)" stroke-opacity=".55" stroke-width="2"/>
+</svg>

@@ -1,0 +1,15 @@
+<svg width="1200" height="140" viewBox="0 0 1200 140" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Clean architecture · Performance · Security · Production">
+  <style>
+    .w1 { animation: wave 9s ease-in-out infinite; }
+    .w2 { animation: wave 13s ease-in-out infinite reverse; }
+    @keyframes wave { 0%,100% { transform: translateX(0) } 50% { transform: translateX(-60px) } }
+  </style>
+  <defs>
+    <linearGradient id="a" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#38bdf8"/><stop offset=".5" stop-color="#2563eb"/><stop offset="1" stop-color="#7c3aed"/>
+    </linearGradient>
+  </defs>
+  <path class="w2" d="M-60 92 C 140 52, 340 132, 540 92 S 940 52, 1140 92 S 1340 112, 1400 92 L1400 140 L-60 140 Z" fill="url(#a)" opacity=".18"/>
+  <path class="w1" d="M-60 106 C 160 76, 360 136, 600 106 S 1000 76, 1260 106 L1260 140 L-60 140 Z" fill="url(#a)" opacity=".35"/>
+  <text x="600" y="50" text-anchor="middle" fill="#64748b" font-family="Consolas, monospace" font-size="15" letter-spacing="3">CLEAN ARCHITECTURE <tspan fill="#2563eb">·</tspan> PERFORMANCE <tspan fill="#2563eb">·</tspan> SECURITY <tspan fill="#2563eb">·</tspan> PRODUCTION</text>
+</svg>
