@@ -4,7 +4,8 @@
 
 <br>
 
-Modern web uygulamaları, API sistemleri, otomasyon araçları ve oyun toplulukları için ölçeklenebilir ürünler geliştiriyorum.
+Hosting, e-posta, güvenlik ve SEO alanlarında **uçtan uca altyapı ürünleri** geliştiriyorum —<br>
+sunucudan arayüze, API'den dağıtıma kadar.
 
 <br>
 
@@ -17,8 +18,8 @@ Modern web uygulamaları, API sistemleri, otomasyon araçları ve oyun toplulukl
 <br>
 
 ![Deneyim](https://img.shields.io/badge/4%2B_YIL-DENEYİM-101820?style=for-the-badge&labelColor=00C896)
-![Projeler](https://img.shields.io/badge/10%2B-PROJE-101820?style=for-the-badge&labelColor=22D3EE)
-![Teknolojiler](https://img.shields.io/badge/34-TEKNOLOJİ-101820?style=for-the-badge&labelColor=8B5CF6)
+![Aktif](https://img.shields.io/badge/4-AKTİF_ÜRÜN-101820?style=for-the-badge&labelColor=22D3EE)
+![Teknolojiler](https://img.shields.io/badge/30%2B-TEKNOLOJİ-101820?style=for-the-badge&labelColor=8B5CF6)
 
 </div>
 
@@ -26,26 +27,78 @@ Modern web uygulamaları, API sistemleri, otomasyon araçları ve oyun toplulukl
 
 <div align="center">
 
-[**PROFİL**](#-profil)　·　[**HİZMETLER**](#-neler-yapıyorum)　·　[**TEKNOLOJİLER**](#-teknoloji-alanım)　·　[**PROJELER**](#-seçili-projeler)　·　[**İLETİŞİM**](#-bağlantı)
+[**PROFİL**](#-profil)　·　[**AKTİF ÜRÜNLER**](#-aktif-olarak-geliştirdiklerim)　·　[**TEKNOLOJİLER**](#-teknoloji-alanım)　·　[**DİĞER İŞLER**](#-diğer-çalışmalar)　·　[**İLETİŞİM**](#-bağlantı)
 
 </div>
 
 ## ✦ Profil
 
-2022'den beri web geliştirme, oyun sistemleri ve otomasyon alanlarında ürünler geliştiriyorum. Modern full-stack web sitelerinden özel API'lere; Minecraft eklentilerinden Discord sistemlerine kadar farklı ihtiyaçlara yönelik çözümler üretiyorum.
+2022'den beri web geliştirme, sunucu altyapısı ve otomasyon alanlarında ürünler geliştiriyorum. Bugün odağım; barındırma, kurumsal e-posta, DNS/WAF güvenliği ve SEO analizi gibi **gerçek trafik taşıyan altyapı ürünleri**.
 
-Çalışmalarımda **temiz mimari**, **performans**, **güvenlik** ve **sorunsuz dağıtım** konularına odaklanıyorum. Bir projeyi fikir aşamasından üretim ortamına kadar bütün olarak ele almayı seviyorum.
+Çalışmalarımda **temiz mimari**, **performans**, **güvenlik** ve **kesintisiz dağıtım** konularına odaklanıyorum. Bir ürünü fikir aşamasından üretim ortamına — sunucu kurulumundan arayüz detaylarına kadar — bütün olarak ele alıyorum.
 
-> 🟢 **Şu anda:** Nexuby ve NEX.WEB.TR çatısı altında geliştirici araçları ve dijital ürünler geliştiriyorum.
+> 🟢 **Şu anda:** Verinox, İletora, Serpium ve Vardwall'u aktif olarak geliştiriyorum.
 
-## ✦ Neler Yapıyorum?
+## ✦ Aktif Olarak Geliştirdiklerim
 
-| `01` Web & Ürün | `02` Sistem & Otomasyon | `03` Oyun & Topluluk |
-|---|---|---|
-| Full Stack Development | API Development | Minecraft Development |
-| E-Commerce Solutions | System Architecture | Discord Bot Development |
-| UI/UX & Responsive Design | Automation & Scripting | Community Systems |
-| Performance & SEO | Database Management | Custom Integrations |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🖥️ Verinox
+
+![Canlı](https://img.shields.io/badge/●_CANLI-00C896?style=flat-square) ![Hosting](https://img.shields.io/badge/HOSTING_&_VDS-101820?style=flat-square)
+
+NVMe diskli web hosting, WordPress hosting, VDS sunucu ve alan adı hizmetleri. Müşteri paneli, sepet ve ödeme akışı, sıfır kesintili dağıtım altyapısı.
+
+`Next.js` `TypeScript` `Go` `Nginx`
+
+**[verinox.com.tr →](https://www.verinox.com.tr)**
+
+</td>
+<td width="50%" valign="top">
+
+### ✉️ İletora
+
+![Canlı](https://img.shields.io/badge/●_CANLI-00C896?style=flat-square) ![E-posta](https://img.shields.io/badge/KURUMSAL_E--POSTA-101820?style=flat-square)
+
+Kendi alan adınızla kurumsal e-posta: webmail, Outlook ve telefon desteği, DKIM, spam ve virüs koruması, müşteri ve yönetim panelleri.
+
+`Go` `Next.js` `PostgreSQL` `Postfix` `Dovecot`
+
+**[iletora.com →](https://iletora.com)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📈 Serpium
+
+![Canlı](https://img.shields.io/badge/●_CANLI-00C896?style=flat-square) ![SEO](https://img.shields.io/badge/AI_SEO-101820?style=flat-square)
+
+Yapay zekâ destekli SEO ve web sitesi optimizasyonu. Mobil ve masaüstü Lighthouse analizi, Search Console ile sıralama takibi ve yapay zekâ önerileri.
+
+`Next.js` `TypeScript` `Go` `PostgreSQL` `Docker`
+
+**[serpium.com.tr →](https://serpium.com.tr)**
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ Vardwall
+
+![Geliştiriliyor](https://img.shields.io/badge/●_GELİŞTİRİLİYOR-8B5CF6?style=flat-square) ![Güvenlik](https://img.shields.io/badge/DNS_&_WAF-101820?style=flat-square)
+
+Yetkili DNS ve WAF korumasını tek panelde toplayan güvenlik platformu. Ters vekil sunucu, OWASP kuralları ve otomatik IP engelleme.
+
+`Go` `Next.js` `TypeScript` `PostgreSQL`
+
+**[vardwall.com →](https://vardwall.com)**
+
+</td>
+</tr>
+</table>
 
 ## ✦ Teknoloji Alanım
 
@@ -53,148 +106,57 @@ Modern web uygulamaları, API sistemleri, otomasyon araçları ve oyun toplulukl
 
 #### Web & Uygulama
 
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,nextjs,react,html,css,tailwind,bootstrap,php,java,python&perline=6" alt="Development technologies" />
+<img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,tailwind,nodejs,go,php,java,python&perline=10" alt="Development technologies" />
 
 <br><br>
 
 #### Veri & Altyapı
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,git,github,cloudflare,npm,vite&perline=8" alt="Databases and tools" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,docker,nginx,linux,debian,ubuntu,git,cloudflare,vite&perline=12" alt="Databases and infrastructure" />
 
 <br><br>
 
-`Discord.js` · `REST API` · `JDA` · `Bukkit` · `Spigot` · `Paper` · `Velocity` · `Mineflayer`
+`REST API` · `Postfix` · `Dovecot` · `WAF` · `DNS` · `Discord.js` · `Paper` · `Velocity`
 
 </div>
 
 <div align="center"><img src="./assets/divider.svg" width="78%" alt="" /></div>
 
-## ✦ Seçili Projeler
+## ✦ Diğer Çalışmalar
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 🏛️ 19-05-1881
+#### 🛠️ DevTools
 
-![Featured](https://img.shields.io/badge/FEATURED-FF6B35?style=flat-square)
+Dark/light tema, PWA desteği ve Ctrl+K aramalı geliştirici araçları koleksiyonu.
 
-Mustafa Kemal Atatürk'ün life journey interactive web experience with historical content, timeline, archival materials and educational resources.
-
-`Next.js` `TypeScript` `Tailwind CSS` `Vercel`
-
-**[19-05-1881.com.tr →](https://19-05-1881.com.tr)**
-
-</td>
-<td width="50%" valign="top">
-
-### 🟢 Nexuby
-
-![Featured](https://img.shields.io/badge/FEATURED-00C896?style=flat-square)
-
-Minecraft eklentileri, web platformları, otomasyon sistemleri ve açık kaynak geliştirici araçları üreten yazılım markası.
-
-`Next.js` `TypeScript` `Node.js` `MongoDB`
-
-**[nexuby.net.tr →](https://nexuby.net.tr)**
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🟦 NEX.WEB.TR
-
-![Featured](https://img.shields.io/badge/FEATURED-22D3EE?style=flat-square)
-
-İşletmeler, içerik üreticileri ve çevrim içi projeler için profesyonel web scriptleri ve dijital çözümler.
-
-`Next.js` `TypeScript` `TailwindCSS` `PHP`
-
-**[nex.web.tr →](https://nex.web.tr)**
-
-</td>
-<td width="50%" valign="top">
-
-### ✂️ Utku Köksal Hair Studio
-
-Hizmet menüsü, fiyatlandırma ve gerçek zamanlı randevu formu içeren güzellik salonu platformu.
-
-`React` `Next.js` `TypeScript` `Tailwind CSS`
-
-**[Projeyi aç →](https://utkukoksalhairstudio.com)**
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🧶 Derya Craft House
-
-Doğal dokularla, sevgiyle hazırlanan el yapımı hasır, makrome ve örgü çantalar için vitrin web sitesi. GlowCard spotlight efekti, responsive tasarım ve Instagram sipariş entegrasyonu.
-
-`Next.js` `TypeScript` `CSS3` `Nginx`
-
-**[deryacrafthouse.com.tr →](https://deryacrafthouse.com.tr)**
-
-</td>
-<td width="50%" valign="top">
-
-### 🛒 Litvan
-
-Ürün kataloğu, sepet, kullanıcı girişi ve 3D Secure ödeme altyapısı bulunan e-ticaret platformu.
-
-`PHP` `MySQL` `JavaScript` `SSL`
-
-**[litvan.net →](https://litvan.net)**
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎮 Anormal Community
-
-CS2 topluluk sunucuları için market, ekip yönetimi, duyuru, etkinlik ve destek modülleri.
-
-`PHP` `MySQL` `JavaScript` `Discord API`
-
-**[anormal.fun →](https://anormal.fun)**
-
-</td>
-<td width="50%" valign="top">
-
-### ⛏️ Anormal Craft
-
-Mağaza, kredi sistemi, destek talepleri, blog ve çoklu dil desteği bulunan Minecraft sunucu sitesi.
-
-`LeaderOS` `PHP` `MySQL` `JavaScript`
-
-**[anormalcraft.com →](https://anormalcraft.com)**
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🛠️ DevTools
-
-34 gelistirici araci, dark/light tema, PWA destegi, Ctrl+K arama, favori ve son kullanilan ozellikleri.
-
-`Next.js` `TypeScript` `Tailwind CSS` `PWA`
+`Next.js` `PWA`
 
 **[devtools.com.tr →](https://devtools.com.tr)**
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 🔍 MekipCraft
+#### 🏛️ 19-05-1881
 
-Gercek zamanli web sitesi analiz platformu. Guvenlik, SEO, SSL, DNS ve performans kontrolu.
+Mustafa Kemal Atatürk'ün hayatını zaman çizelgesi ve arşiv belgeleriyle anlatan etkileşimli web deneyimi.
 
-`Next.js` `TypeScript` `Tailwind CSS` `REST API`
+`Next.js` `Tailwind`
 
-**[mekipcraft.com →](https://mekipcraft.com)**
+**[19-05-1881.com.tr →](https://19-05-1881.com.tr)**
+
+</td>
+<td width="33%" valign="top">
+
+#### 🧶 Derya Craft House
+
+El yapımı hasır, makrome ve örgü çantalar için Instagram entegrasyonlu vitrin sitesi.
+
+`Next.js` `Nginx`
+
+**[deryacrafthouse.com.tr →](https://deryacrafthouse.com.tr)**
 
 </td>
 </tr>
