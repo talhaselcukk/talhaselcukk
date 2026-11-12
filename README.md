@@ -4,22 +4,22 @@
 
 <br>
 
-Hosting, e-posta, güvenlik ve SEO alanlarında **uçtan uca altyapı ürünleri** geliştiriyorum —<br>
-sunucudan arayüze, API'den dağıtıma kadar.
+I build **end-to-end infrastructure products** for email, security and SEO —<br>
+from the server to the interface, from the API to the deployment.
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLYO-00C896?style=for-the-badge&logo=googlechrome&logoColor=white)](https://talhaselcuksezgin.com)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-00C896?style=for-the-badge&logo=googlechrome&logoColor=white)](https://talhaselcuksezgin.com)
 [![DevTools](https://img.shields.io/badge/DEVTOOLS-10B981?style=for-the-badge&logo=terminal&logoColor=white)](https://devtools.com.tr)
 [![Discord](https://img.shields.io/badge/bambams__-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/277501063538409472)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/talha-sel%C3%A7uk-sezgin-95b429332)
-[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:talha.selcukk@gmail.com)
+[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@talhaselcuksezgin.com)
 
 <br>
 
-![Deneyim](https://img.shields.io/badge/4%2B_YIL-DENEYİM-101820?style=for-the-badge&labelColor=00C896)
-![Aktif](https://img.shields.io/badge/4-AKTİF_ÜRÜN-101820?style=for-the-badge&labelColor=22D3EE)
-![Teknolojiler](https://img.shields.io/badge/30%2B-TEKNOLOJİ-101820?style=for-the-badge&labelColor=8B5CF6)
+![Experience](https://img.shields.io/badge/4%2B_YEARS-EXPERIENCE-101820?style=for-the-badge&labelColor=00C896)
+![Active](https://img.shields.io/badge/3-ACTIVE_PRODUCTS-101820?style=for-the-badge&labelColor=22D3EE)
+![Technologies](https://img.shields.io/badge/30%2B-TECHNOLOGIES-101820?style=for-the-badge&labelColor=8B5CF6)
 
 </div>
 
@@ -27,79 +27,66 @@ sunucudan arayüze, API'den dağıtıma kadar.
 
 <div align="center">
 
-[**PROFİL**](#-profil)　·　[**AKTİF ÜRÜNLER**](#-aktif-olarak-geliştirdiklerim)　·　[**HİZMETLER**](#-neler-yapıyorum)　·　[**TEKNOLOJİLER**](#-teknoloji-alanım)　·　[**DİĞER İŞLER**](#-diğer-çalışmalar)　·　[**İLETİŞİM**](#-bağlantı)
+[**ABOUT**](#-about-me)　·　[**SERVICES**](#-what-i-do)　·　[**BUILDING**](#-currently-building)　·　[**STACK**](#-tech-stack)　·　[**PROJECTS**](#-other-projects)　·　[**CONTACT**](#-get-in-touch)
 
 </div>
 
-## ✦ Profil
+## ✦ About Me
 
-2022'den beri web geliştirme, sunucu altyapısı ve otomasyon alanlarında ürünler geliştiriyorum. Bugün odağım; barındırma, kurumsal e-posta, DNS/WAF güvenliği ve SEO analizi gibi **gerçek trafik taşıyan altyapı ürünleri**.
+I've been building web products, server infrastructure and automation tools since 2022. Today my focus is on **infrastructure products that carry real traffic**: business email, DNS/WAF security and SEO analysis.
 
-Çalışmalarımda **temiz mimari**, **performans**, **güvenlik** ve **kesintisiz dağıtım** konularına odaklanıyorum. Bir ürünü fikir aşamasından üretim ortamına — sunucu kurulumundan arayüz detaylarına kadar — bütün olarak ele alıyorum.
+I care about **clean architecture**, **performance**, **security** and **zero-downtime deployments**. I like owning a product end to end — from provisioning the server to polishing the last pixel of the interface.
 
-> 🟢 **Şu anda:** Verinox, İletora, Serpium ve Vardwall'u aktif olarak geliştiriyorum.
+> 🟢 **Currently:** actively building İletora, Serpium and Vardwall.
 
-## ✦ Neler Yapıyorum?
+## ✦ What I Do
 
-| `01` Web & Ürün | `02` Sistem & Otomasyon | `03` Oyun & Topluluk |
+| `01` Web & Product | `02` Systems & Automation | `03` Gaming & Community |
 |---|---|---|
 | Full Stack Development | API Development | Minecraft Development |
 | E-Commerce Solutions | System Architecture | Discord Bot Development |
 | UI/UX & Responsive Design | Automation & Scripting | Community Systems |
 | Performance & SEO | Database Management | Custom Integrations |
 
-## ✦ Aktif Olarak Geliştirdiklerim
+## ✦ Currently Building
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🖥️ Verinox
-
-![Canlı](https://img.shields.io/badge/●_CANLI-00C896?style=flat-square) ![Hosting](https://img.shields.io/badge/HOSTING_&_VDS-101820?style=flat-square)
-
-NVMe diskli web hosting, WordPress hosting, VDS sunucu ve alan adı hizmetleri. Müşteri paneli, sepet ve ödeme akışı, sıfır kesintili dağıtım altyapısı.
-
-`Next.js` `TypeScript` `Go` `Nginx`
-
-**[verinox.com.tr →](https://www.verinox.com.tr)**
-
-</td>
-<td width="50%" valign="top">
-
 ### ✉️ İletora
 
-![Canlı](https://img.shields.io/badge/●_CANLI-00C896?style=flat-square) ![E-posta](https://img.shields.io/badge/KURUMSAL_E--POSTA-101820?style=flat-square)
+![Live](https://img.shields.io/badge/●_LIVE-00C896?style=flat-square) ![Email](https://img.shields.io/badge/BUSINESS_EMAIL-101820?style=flat-square)
 
-Kendi alan adınızla kurumsal e-posta: webmail, Outlook ve telefon desteği, DKIM, spam ve virüs koruması, müşteri ve yönetim panelleri.
+Business email on your own domain: webmail, Outlook and mobile support, DKIM, spam and virus protection, with customer and admin panels.
 
 `Go` `Next.js` `PostgreSQL` `Postfix` `Dovecot`
 
 **[iletora.com →](https://iletora.com)**
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 📈 Serpium
 
-![Canlı](https://img.shields.io/badge/●_CANLI-00C896?style=flat-square) ![SEO](https://img.shields.io/badge/AI_SEO-101820?style=flat-square)
+![Live](https://img.shields.io/badge/●_LIVE-00C896?style=flat-square) ![SEO](https://img.shields.io/badge/AI_SEO-101820?style=flat-square)
 
-Yapay zekâ destekli SEO ve web sitesi optimizasyonu. Mobil ve masaüstü Lighthouse analizi, Search Console ile sıralama takibi ve yapay zekâ önerileri.
+AI-powered SEO and website optimization. Mobile and desktop Lighthouse audits, rank tracking with Search Console data and AI-driven recommendations.
 
 `Next.js` `TypeScript` `Go` `PostgreSQL` `Docker`
 
 **[serpium.com.tr →](https://serpium.com.tr)**
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
 ### 🛡️ Vardwall
 
-![Geliştiriliyor](https://img.shields.io/badge/●_GELİŞTİRİLİYOR-8B5CF6?style=flat-square) ![Güvenlik](https://img.shields.io/badge/DNS_&_WAF-101820?style=flat-square)
+![In development](https://img.shields.io/badge/●_IN_DEVELOPMENT-8B5CF6?style=flat-square) ![Security](https://img.shields.io/badge/DNS_&_WAF-101820?style=flat-square)
 
-Yetkili DNS ve WAF korumasını tek panelde toplayan güvenlik platformu. Ters vekil sunucu, OWASP kuralları ve otomatik IP engelleme.
+A security platform that brings authoritative DNS and WAF protection together in a single panel — reverse proxy edge, OWASP rule sets and automatic IP banning.
 
 `Go` `Next.js` `TypeScript` `PostgreSQL`
 
@@ -109,17 +96,17 @@ Yetkili DNS ve WAF korumasını tek panelde toplayan güvenlik platformu. Ters v
 </tr>
 </table>
 
-## ✦ Teknoloji Alanım
+## ✦ Tech Stack
 
 <div align="center">
 
-#### Web & Uygulama
+#### Web & Application
 
 <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nextjs,react,html,css,tailwind,bootstrap,php,java,python,go&perline=7" alt="Development technologies" />
 
 <br><br>
 
-#### Veri & Altyapı
+#### Data & Infrastructure
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,postgres,redis,git,github,cloudflare,npm,vite,docker,nginx,linux&perline=7" alt="Databases and tools" />
 
@@ -131,7 +118,7 @@ Yetkili DNS ve WAF korumasını tek panelde toplayan güvenlik platformu. Ters v
 
 <div align="center"><img src="./assets/divider.svg" width="78%" alt="" /></div>
 
-## ✦ Diğer Çalışmalar
+## ✦ Other Projects
 
 <table>
 <tr>
@@ -141,7 +128,7 @@ Yetkili DNS ve WAF korumasını tek panelde toplayan güvenlik platformu. Ters v
 
 ![Featured](https://img.shields.io/badge/FEATURED-FF6B35?style=flat-square)
 
-Mustafa Kemal Atatürk'ün hayat yolculuğunu tarihî içerik, zaman çizelgesi, arşiv materyalleri ve eğitim kaynaklarıyla anlatan etkileşimli web deneyimi.
+An interactive web experience about the life of Mustafa Kemal Atatürk, with historical content, a timeline, archival material and educational resources.
 
 `Next.js` `TypeScript` `Tailwind CSS` `Vercel`
 
@@ -152,7 +139,7 @@ Mustafa Kemal Atatürk'ün hayat yolculuğunu tarihî içerik, zaman çizelgesi,
 
 ### 🛠️ DevTools
 
-34 geliştirici aracı, dark/light tema, PWA desteği, Ctrl+K arama, favori ve son kullanılan özellikleri.
+34 developer tools with dark/light themes, PWA support, Ctrl+K search, favorites and recently used tools.
 
 `Next.js` `TypeScript` `Tailwind CSS` `PWA`
 
@@ -161,37 +148,34 @@ Mustafa Kemal Atatürk'ün hayat yolculuğunu tarihî içerik, zaman çizelgesi,
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" valign="top">
 
 ### 🧶 Derya Craft House
 
-Doğal dokularla, sevgiyle hazırlanan el yapımı hasır, makrome ve örgü çantalar için vitrin web sitesi. GlowCard spotlight efekti, responsive tasarım ve Instagram sipariş entegrasyonu.
+A showcase site for handmade straw, macramé and knitted bags, made with natural textures. GlowCard spotlight effect, responsive design and Instagram ordering integration.
 
 `Next.js` `TypeScript` `CSS3` `Nginx`
 
 **[deryacrafthouse.com.tr →](https://deryacrafthouse.com.tr)**
 
 </td>
-<td width="50%" valign="top">
-
-</td>
 </tr>
 </table>
 
-## ✦ Sertifikalar
+## ✦ Certificates
 
-| Kurum | Sertifika | Yıl |
+| Institution | Certificate | Year |
 |:---:|---|:---:|
-| **BTK Akademi** | [Web Sitesi Kullanılabilirliği](https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=qKrheY9KGK) | `2025` |
-| **BTK Akademi** | [Sosyal Medyada Tasarım Temelli İçerik Üretimi](https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=O2kkfw1o7mZ) | `2026` |
+| **BTK Akademi** | [Website Usability](https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=qKrheY9KGK) | `2025` |
+| **BTK Akademi** | [Design-Driven Content Creation for Social Media](https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=O2kkfw1o7mZ) | `2026` |
 
 <div align="center"><img src="./assets/divider.svg" width="78%" alt="" /></div>
 
-## ✦ GitHub Aktivitesi
+## ✦ GitHub Activity
 
 <div align="center">
 
-<img width="96%" src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Talha Selçuk Sezgin GitHub aktivitesi" />
+<img width="96%" src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Talha Selçuk Sezgin GitHub activity" />
 
 <br>
 
@@ -199,17 +183,35 @@ Doğal dokularla, sevgiyle hazırlanan el yapımı hasır, makrome ve örgü ça
 
 </div>
 
+## ✦ Hosting Sponsor
+
+<div align="center">
+
+<a href="https://www.verinox.com.tr">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/verinox-logo-white.png" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/verinox-logo.png" />
+    <img src="./assets/verinox-logo.png" width="260" alt="Verinox" />
+  </picture>
+</a>
+
+<br><br>
+
+My projects are proudly hosted on **[Verinox](https://www.verinox.com.tr)** — NVMe web hosting, VDS servers and domains with 24/7 support.
+
+</div>
+
 ---
 
 <div align="center">
 
-## ✦ Bağlantı
+## ✦ Get in Touch
 
-### Birlikte üretime hazır bir şey geliştirelim.
+### Let's build something production-ready together.
 
 [![Portfolio](https://img.shields.io/badge/talhaselcuksezgin.com-00C896?style=for-the-badge&logo=googlechrome&logoColor=white)](https://talhaselcuksezgin.com)
 [![Discord](https://img.shields.io/badge/bambams__-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/277501063538409472)
-[![Email](https://img.shields.io/badge/talha.selcukk%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:talha.selcukk@gmail.com)
+[![Email](https://img.shields.io/badge/info%40talhaselcuksezgin.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@talhaselcuksezgin.com)
 
 <br><br>
 
