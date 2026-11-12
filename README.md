@@ -19,7 +19,7 @@ from the server to the interface, from the API to the deployment.
 
 ![Experience](https://img.shields.io/badge/4%2B_YEARS-EXPERIENCE-0B1220?style=for-the-badge&labelColor=2563EB)
 ![Active](https://img.shields.io/badge/3-ACTIVE_PRODUCTS-0B1220?style=for-the-badge&labelColor=0EA5E9)
-![Technologies](https://img.shields.io/badge/30%2B-TECHNOLOGIES-0B1220?style=for-the-badge&labelColor=7C3AED)
+![Technologies](https://img.shields.io/badge/40-TECHNOLOGIES-0B1220?style=for-the-badge&labelColor=7C3AED)
 
 </div>
 
@@ -56,7 +56,7 @@ focus:
   - DNS & WAF security
   - AI-powered SEO
 stack:    [Go, Next.js, TypeScript,
-           PostgreSQL, Docker, Nginx]
+           PostgreSQL, Redis, Docker]
 hosting:  Verinox
 ```
 
@@ -77,9 +77,9 @@ hosting:  Verinox
 
 <div align="center">
 
-<a href="https://iletora.com"><img src="./assets/card-iletora.svg" width="49%" alt="İletora — business email" /></a>
-<a href="https://serpium.com.tr"><img src="./assets/card-serpium.svg" width="49%" alt="Serpium — AI-powered SEO" /></a>
-<a href="https://vardwall.com"><img src="./assets/card-vardwall.svg" width="49%" alt="Vardwall — DNS and WAF security" /></a>
+<a href="https://iletora.com"><img src="./assets/card-iletora.svg?v=2" width="49%" alt="İletora — business email" /></a>
+<a href="https://serpium.com.tr"><img src="./assets/card-serpium.svg?v=2" width="49%" alt="Serpium — AI-powered SEO" /></a>
+<a href="https://vardwall.com"><img src="./assets/card-vardwall.svg?v=2" width="49%" alt="Vardwall — DNS and WAF security" /></a>
 
 </div>
 
@@ -87,19 +87,43 @@ hosting:  Verinox
 
 <div align="center">
 
-#### Web & Application
+#### Backend
 
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,nextjs,react,html,css,tailwind,bootstrap,php,java,python,go&perline=7" alt="Development technologies" />
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,go,discordjs,python" alt="JavaScript, TypeScript, Node.js, Go, Discord.js, Python" />
 
-<br><br>
+`JDA` · `REST APIs`
 
-#### Data & Infrastructure
+<br>
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,postgres,redis,git,github,cloudflare,npm,vite,docker,nginx,linux&perline=7" alt="Databases and tools" />
+#### Frontend
 
-<br><br>
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,vite,html,css,bootstrap" alt="Next.js, React, Tailwind CSS, Vite, HTML5, CSS3, Bootstrap" />
 
-`Discord.js` · `REST API` · `JDA` · `Bukkit` · `Spigot` · `Paper` · `Velocity` · `Mineflayer` · `Postfix` · `Dovecot`
+`React Native`
+
+<br>
+
+#### Databases
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,sqlite,mysql" alt="PostgreSQL, MongoDB, Redis, SQLite, MySQL" />
+
+`MariaDB`
+
+<br>
+
+#### Minecraft
+
+<img src="https://skillicons.dev/icons?i=java" alt="Java" />
+
+`Bukkit` · `Spigot` · `Paper` · `Purpur` · `Folia` · `Velocity` · `Fabric` · `Minestom` · `PacketEvents` · `Mineflayer`
+
+<br>
+
+#### Infrastructure & Tools
+
+<img src="https://skillicons.dev/icons?i=docker,nginx,linux,cloudflare,github,npm" alt="Docker, Nginx, Linux, Cloudflare, GitHub, npm" />
+
+`Vardwall`
 
 </div>
 
@@ -109,9 +133,9 @@ hosting:  Verinox
 
 <div align="center">
 
-<a href="https://19-05-1881.com.tr"><img src="./assets/card-1881.svg" width="49%" alt="19-05-1881 — interactive Atatürk web experience" /></a>
-<a href="https://devtools.com.tr"><img src="./assets/card-devtools.svg" width="49%" alt="DevTools — 34 developer tools" /></a>
-<a href="https://deryacrafthouse.com.tr"><img src="./assets/card-deryacraft.svg" width="49%" alt="Derya Craft House — handmade bags showcase" /></a>
+<a href="https://19-05-1881.com.tr"><img src="./assets/card-1881.svg?v=2" width="49%" alt="19-05-1881 — interactive Atatürk web experience" /></a>
+<a href="https://devtools.com.tr"><img src="./assets/card-devtools.svg?v=2" width="49%" alt="DevTools — 54 free developer tools" /></a>
+<a href="https://deryacrafthouse.com.tr"><img src="./assets/card-deryacraft.svg?v=2" width="49%" alt="Derya Craft House — handmade bags showcase" /></a>
 
 </div>
 
