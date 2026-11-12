@@ -107,47 +107,13 @@ hosting:  Verinox
 
 ## ✦ Other Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-### 🏛️ 19-05-1881
+<a href="https://19-05-1881.com.tr"><img src="./assets/card-1881.svg" width="49%" alt="19-05-1881 — interactive Atatürk web experience" /></a>
+<a href="https://devtools.com.tr"><img src="./assets/card-devtools.svg" width="49%" alt="DevTools — 34 developer tools" /></a>
+<a href="https://deryacrafthouse.com.tr"><img src="./assets/card-deryacraft.svg" width="49%" alt="Derya Craft House — handmade bags showcase" /></a>
 
-![Featured](https://img.shields.io/badge/FEATURED-FF6B35?style=flat-square)
-
-An interactive web experience about the life of Mustafa Kemal Atatürk, with historical content, a timeline, archival material and educational resources.
-
-`Next.js` `TypeScript` `Tailwind CSS` `Vercel`
-
-**[19-05-1881.com.tr →](https://19-05-1881.com.tr)**
-
-</td>
-<td width="50%" valign="top">
-
-### 🛠️ DevTools
-
-34 developer tools with dark/light themes, PWA support, Ctrl+K search, favorites and recently used tools.
-
-`Next.js` `TypeScript` `Tailwind CSS` `PWA`
-
-**[devtools.com.tr →](https://devtools.com.tr)**
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-### 🧶 Derya Craft House
-
-A showcase site for handmade straw, macramé and knitted bags, made with natural textures. GlowCard spotlight effect, responsive design and Instagram ordering integration.
-
-`Next.js` `TypeScript` `CSS3` `Nginx`
-
-**[deryacrafthouse.com.tr →](https://deryacrafthouse.com.tr)**
-
-</td>
-</tr>
-</table>
+</div>
 
 ## ✦ Certificates
 
