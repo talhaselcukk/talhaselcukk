@@ -134,7 +134,7 @@ hosting:  Verinox
 <div align="center">
 
 <a href="https://19-05-1881.com.tr"><img src="./assets/card-1881.svg?v=2" width="49%" alt="19-05-1881 — interactive Atatürk web experience" /></a>
-<a href="https://devtools.com.tr"><img src="./assets/card-devtools.svg?v=2" width="49%" alt="DevTools — 54 free developer tools" /></a>
+<a href="https://devtools.com.tr"><img src="./assets/card-devtools.svg?v=3" width="49%" alt="DevTools — 67 free developer tools" /></a>
 <a href="https://deryacrafthouse.com.tr"><img src="./assets/card-deryacraft.svg?v=2" width="49%" alt="Derya Craft House — handmade bags showcase" /></a>
 
 </div>
